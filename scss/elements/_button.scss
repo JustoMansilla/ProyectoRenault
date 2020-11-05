@@ -108,7 +108,7 @@ button {
             color: #222222;
         }
         &.bk-btn-green {
-            background: #68AE4A;
+            background: #1f2632;
             color: $white;
         }
         &.bk-btn-gray{
@@ -116,7 +116,7 @@ button {
             color: $heading-color;
             text-transform: uppercase;
             font-weight: 500;
-            font-family: $CerebriSans;
+            font-family: $'Hind Guntur', sans-serif;;
             box-shadow: none;
             &:hover{
                 background-color: #9F3939;
@@ -456,8 +456,8 @@ a {
     box-shadow: none !important;
     margin: 0 !important;
     &:hover{
-        background: #68AE4A !important;
-        border-color: #68AE4A !important;
+        background: #1f2632 !important;
+        border-color: #1f2632 !important;
         color: $white !important;
         transform: translateY(0px) !important;
     }

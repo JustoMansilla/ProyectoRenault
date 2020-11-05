@@ -95,19 +95,19 @@
         background: #f5f6fa !important;
         height: 50px !important;
         &:focus{
-            border: 1px solid #68AE4A !important;
+            border: 1px solid #1f2632 !important;
         }
     }
     textarea{
         border: 1px solid #f5f6fa !important;
         background: #f5f6fa !important;
         &:focus{
-            border: 1px solid #68AE4A !important;
+            border: 1px solid #1f2632 !important;
         }
     }
     input[type="submit"]{
-        border-color: #68AE4A !important;
-        background-color: #68AE4A !important;
+        border-color: #1f2632 !important;
+        background-color: #1f2632 !important;
         color: $white !important;
         border-radius: 0 !important;
     }
@@ -120,7 +120,7 @@
     color: #ffffff !important;
     border-color: #9F3939 !important;
     background-color: #9F3939 !important;
-    font-family: $CerebriSans !important;
+    font-family: $'Hind Guntur', sans-serif; !important;
     font-size: 13px !important;
     font-weight: 500 !important;
     letter-spacing: 1px !important;
