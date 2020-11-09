@@ -7,3 +7,8 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+
+@font-face {
+	font-family: RenaultLife;
+	src: url(../fonts/RenaultLife.ttf);
+  }
